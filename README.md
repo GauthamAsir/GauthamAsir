@@ -1,6 +1,6 @@
 ## Hi there, I'm [Gautham](https://gauthamasir.github.io/gautham_portfolio/) 👋
 
-## I'm a Developer!!
+## I'm a App Developer!!
 
 - 🌱 I love working with Android ❤️
 - 🔭 I’m currently working on Flutter projects
