@@ -25,6 +25,6 @@
 
 ## Stats
 
-<img align="left" alt="Marishwaran99's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GauthamAsir&include_all_commits=true&show_icons=true&theme=radical" />
+<img align="left" alt="Gautham's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GauthamAsir&include_all_commits=true&show_icons=true&theme=radical" />
 
-<img align="left" alt="Marishwaran99's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauthamAsir&layout=compact&theme=radical" />
+<img align="left" alt="Gautham's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauthamAsir&layout=compact&theme=radical" />
