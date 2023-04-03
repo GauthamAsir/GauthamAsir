@@ -16,15 +16,21 @@
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/dotnet/dotnet.png" />
+
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/java/java.png" />
+
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/firebase/firebase.png" />
+
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/git/git.png" />
 
 <br />
 <br />
 
 ## Stats
 
-<img align="left" alt="Gautham's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GauthamAsir&include_all_commits=true&show_icons=true&theme=radical" />
+<img align="left" alt="Gautham's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GauthamAsir&show_icons=true&theme=transparent" />
 
-<img align="left" alt="Gautham's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauthamAsir&layout=compact&theme=radical" />
+<img align="left" alt="Gautham's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauthamAsir&layout=compact&langs_count=6&hide=assembly,makefile,perl,objective-c,c" />
